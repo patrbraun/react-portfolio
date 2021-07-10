@@ -5,7 +5,7 @@ import "./Work.css";
 export default function Work() {
   return (
     <div className="workContainer">
-      <h1>Works Page</h1>
+      <h1>My Work</h1>
       <div>
         <p>Congress Bill Tracker</p>
         <a href="https://github.com/David-V-Rullo/Congress-Bill-Tracker">
